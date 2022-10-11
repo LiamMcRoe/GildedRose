@@ -1,0 +1,3 @@
+This repository contains my solution to the Gilded Rose refactoring kata in C#, with starting code and challenge specification taken from https://github.com/emilybache/GildedRose-Refactoring-Kata.
+
+The orignal unrefactored code can be found in `/Original`, and the refactored solution in `/Refactored`. The refactored version has been ported to `.NET 6`. The rules of the challenge can be found in `ChallengeSpecifications.md`, which has been taken directly from the `README.md` of the repo linked above.
